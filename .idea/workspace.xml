@@ -15,7 +15,7 @@
       <change beforePath="$PROJECT_DIR$/../GuessTheWord-Starter/app/src/main/res/layout/game_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWord-Starter/app/src/main/res/layout/game_fragment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GuessTheWord-Starter/app/src/main/res/layout/score_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWord-Starter/app/src/main/res/layout/score_fragment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GuessTheWord-Starter/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWord-Starter/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabaseDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabaseDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabase.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +54,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabaseDao.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="459">
+              <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
               <folding>
-                <element signature="e#675#727#0" expanded="true" />
+                <element signature="e#675#817#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabase.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#615#0" expanded="true" />
+                <element signature="e#675#769#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,6 +89,7 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepNight.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabaseDao.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabase.kt" />
       </list>
     </option>
   </component>
@@ -260,10 +274,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabaseDao.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="459">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
           <folding>
-            <element signature="e#675#755#0" expanded="true" />
+            <element signature="e#675#817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabase.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="45" column="39" lean-forward="true" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#615#0" expanded="true" />
+            <element signature="e#675#769#0" expanded="true" />
           </folding>
         </state>
       </provider>
